@@ -14,8 +14,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Experimental and Clinical Pharmacology\ University of Minnesota
-  url: ""
+- name: Experimental and Clinical Pharmacology <br/> University of Minnesota
+  url: "https://www.pharmacy.umn.edu/departments/experimental-and-clinical-pharmacology"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include pharmacometrics, clincal pharmacology and computational statistics.
