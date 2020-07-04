@@ -68,3 +68,4 @@ user_groups:
 ---
 
 Ashwin Karanam is a PhD Candidate at [Angela Birnbaum Lab](https://sites.google.com/umn.edu/a-birnbaum/), University of Minnesota. His research interests include modeling and simulation, pharmacometrics and quantitative clincal pharmacology. He also serves as the current Chair of [ISoP Student Community](http://go-isop.org/special-interest-groups-sigs-and-communities/student-community/).
+Ashwin's thesis is focused on using model based methods to characterize pharmacokinetic and pharmacodynamic changes of antiseizure medicines ins special populations of pregnancy, post-partum and breastfeeding infants.
