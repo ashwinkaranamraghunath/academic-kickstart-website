@@ -21,9 +21,9 @@ subtitle = ""
   description = "60%"
   
 [[feature]]
-  icon = "analytics"
+  icon = "fish"
   icon_pack = "fas"
-  name = "NONMEM"
+  name = "NONMEM-PsN-Pirana"
   description = "80%"
 
 [[feature]]
