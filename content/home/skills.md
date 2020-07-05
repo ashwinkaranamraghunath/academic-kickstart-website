@@ -15,8 +15,8 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-theta"
-  icon_pack = "fas"
+  icon = "theta"
+  icon_pack = "far"
   name = "NONMEM"
   description = "80%"
   
