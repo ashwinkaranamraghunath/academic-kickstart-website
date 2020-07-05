@@ -1,0 +1,13 @@
+---
+title: "Bupivacaine Pharmacokinetics and Breast Milk Excretion of Liposomal Bupivacaine Administered After Cesarean Birth."
+date: 2020-07-01
+publishDate: 2020-07-05T04:41:16.604706Z
+authors: ["Hiba J Mustafa", "Henry L Wong", "Mahmoud Al-Kofahi", "Malinda Schaefer", "Ashwin Karanam", "Michael M Todd"]
+publication_types: ["2"]
+abstract: "OBJECTIVE To evaluate bupivacaine concentrations in maternal plasma and transfer into breast milk in women undergoing liposomal bupivacaine infiltration in the transversus abdominis plane after cesarean birth. METHODS Prospective cohort study of healthy pregnant women who underwent cesarean birth at term followed by a transversus abdominis plane block using 52 mg bupivacaine hydrochloride 0.25% (20 mL) and 266 mg liposomal bupivacaine 1.3% (20 mL). Simultaneous blood and milk samples were collected in a staggered fashion, three to four samples per patient at the following timepoints after block administration: 2, 6, 12, 24, 48, 72, and 96 hours. Quantification of bupivacaine was performed by liquid chromatography-tandem mass spectrometry. Neonatal drug exposure was modeled by calculating milk/plasma area under the curve (AUC) ratios, neonatal dosage, and relative neonatal dosage of bupivacaine at each sampling time. RESULTS Thirty patients were enrolled. Concentrations in breast milk peaked at 6 hours (mean 58 ng/mL), followed by constant and steady decline to low levels at 96 hours (mean 5.2 ng/mL). Maternal plasma concentrations had two peaks, first at 6 hours (mean 155.9 ng/mL) and then at 48 hours (mean 225.8 ng/mL), followed by steady decline. Milk/plasma AUC0-t ratios ranged between AUC0-2 of 0.45 (80% CI 0.38-0.52) and AUC0-96 of 0.15 (80% CI 0.14-0.17). Neonatal dosage ranged between a mean of 355.9 ng/kg at 0-2 hours and a mean of 15,155.4 ng/kg at 0-96 hours. Relative neonatal dosage was less than 1% at all time intervals. No serious adverse reactions occurred in any neonate. CONCLUSION Bupivacaine is excreted in breast milk after local infiltration of liposomal bupivacaine and bupivacaine hydrochloride mixture into transversus abdominis plane blocks after cesarean birth. Relative neonatal dosages of less than 1% (less than 10% is considered to be unlikely to be of clinical concern) suggest minimal risks for breastfeeding healthy, term neonates after the administration of this combination of local anesthetics to mothers. CLINICAL TRIAL REGISTRATION ClinicalTrials.gov, NCT03526419."
+featured: false
+publication: "*Obstetrics and gynecology*"
+url_pdf: "http://www.ncbi.nlm.nih.gov/pubmed/32541292"
+doi: "10.1097/AOG.0000000000003886"
+---
+
