@@ -5,7 +5,7 @@
 
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Featured Publications"
@@ -30,6 +30,9 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
+
+[header]
+  image = "headers/bubbles-wide.jpg"
   
 [design]
   # Toggle between the various page layout types.
@@ -53,8 +56,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-   image = "/featured/JAMA.jpeg"  # Name of image in `static/img/`.
-   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = "/featured/JAMA.jpeg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
