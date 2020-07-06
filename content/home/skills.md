@@ -15,16 +15,16 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
   
 [[feature]]
-  icon = "vials"
-  icon_pack = "fas"
-  name = "Simcyp"
-  description = "60%"
-  
-[[feature]]
   icon = "fish"
   icon_pack = "fas"
   name = "NONMEM-PsN-Pirana"
   description = "80%"
+
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Simcyp"
+  description = "60%"
 
 [[feature]]
   icon = "chart-line"
