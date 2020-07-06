@@ -32,7 +32,7 @@ subtitle = ""
     author = ""
 
 [header]
-  image = "/featured/JAMA.jpeg"
+  image = "static/img/featured/JAMA.jpeg"
   
 [design]
   # Toggle between the various page layout types.
