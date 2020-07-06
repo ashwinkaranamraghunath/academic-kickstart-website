@@ -51,4 +51,4 @@ subtitle = ""
 
 
 
-Test test test test test
+I am originally from Atlanta, Georgia, and am a proud rambling wreck from [Georgia Tech](https://www.gatech.edu/). I received my PhD in psychology and quantitative methods from Vanderbilt University in 2008. Prior to joining RStudio, I was an Assistant Professor at Arizona State University, and an Associate Professor at Oregon Health & Science University (OHSU). At OHSU, I was an NIH-funded Principal Investigator and an Assistant Center Director.
