@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Candidate at [`Angela Birnbaum Lab`](https://sites.google.com/umn.edu/a-birnbaum/), University of Minnesota. My research interests include modeling and simulation, pharmacometrics and quantitative clincal pharmacology. I also serve as the current Chair of [`ISoP Student Community`](http://go-isop.org/special-interest-groups-sigs-and-communities/student-community/).<br/>
-My graduate research is focused on using model based methods to characterize pharmacokinetic and pharmacodynamic changes of antiseizure medicines in special populations of pregnancy, post-partum and breastfeeding infants.
+I am a PhD Candidate at [`Angela Birnbaum Lab`](https://sites.google.com/umn.edu/a-birnbaum/), University of Minnesota. My research interests include modeling and simulation, pharmacometrics and quantitative clincal pharmacology. My graduate research is focused on using model based methods to characterize pharmacokinetic and pharmacodynamic changes of antiseizure medicines in special populations of pregnancy, post-partum and breastfeeding infants. <br/>
+I also serve as the current Chair of [`ISoP Student Community`](http://go-isop.org/special-interest-groups-sigs-and-communities/student-community/).
